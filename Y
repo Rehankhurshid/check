@@ -1,0 +1,1 @@
+in 3NF iff at least one of the following condition holds in every non-trivial function dependency X –
